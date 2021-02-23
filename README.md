@@ -1,13 +1,6 @@
 # IBM Cloud Foundry - V2Ray
 
-Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/how-to-use-ibm-cloud-gracefully-for-free.html)
-
-## Usage
-
-- Click the [Use this template](https://github.com/P3TERX/IBM-CF-V2/generate) button to create a new repository.
-- Click the `Settings` tab on your own repository, and then click the `Secrets` button to add the following encrypted environment variables:
 
   | Environment Variables | Description |
   | --------------------- | ----------- |
